@@ -1,7 +1,8 @@
 {
   "expo": {
     "name": "native",
-    "slug": "native",
+    "slug": "react-native-app",
+    "owner": "cravencat",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +29,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3caee191-b259-4d9c-83ff-8d8693ea6bf4"
+      }
     }
   }
 }
