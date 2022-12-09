@@ -1,4 +1,4 @@
-import { Box, Button, Text, Center } from 'native-base';
+import { Box, Button, Text, Center, useColorMode, useColorModeValue } from 'native-base';
 
 function ThemeButton() {
   const {
